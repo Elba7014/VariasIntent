@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VariasIntent</string>
+    <string name="Nombre">Escriba su nombre</string>
+    <string name="Enviar">Enviar datos</string>
+    <string name="MostrarDatos">Dato recibido</string>
+    <string name="Volver">Volver</string>
+</resources>
